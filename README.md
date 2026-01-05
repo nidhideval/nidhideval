@@ -1,19 +1,13 @@
-# 👋 Hi, I'm Nidhi Deval  
-**Aspiring Data Scientist | Skilled in Python, Machine Learning, APIs & Data Visualization**
+Hi, I’m Nidhi Deval 👋  
 
-**Featured Project:**  
-[Telco Churn Prediction Chatbot](https://github.com/nidhideval/telco-churn-prediction)  
-A complete ML pipeline for predicting telecom customer churn with FastAPI, Streamlit, and a CLI chatbot interface.
+I’m an entry-level MIS / Data Analyst with hands-on experience in Excel-based MIS reporting, KPI tracking, dashboards, and exception reporting through practical projects and virtual internships.
 
-**Tech Stack:**  
-- Python, Pandas, NumPy, Scikit-learn  
-- FastAPI, Streamlit  
-- Git, Jupyter Notebook  
+I use Python for data cleaning and analysis and am currently building strong foundations in SQL and Power BI for reporting and visualization.
 
-📚 Currently exploring: Deep Learning & Data Engineering tools.  
-📫 How to reach me: [linkedin.com/in/nidhi-deval-204391365]  
+I also maintain guided analytics and machine learning projects to understand end-to-end data workflows and analytical thinking.
 
-✨ *“Turning data into meaningful insights and intelligent solutions.”*
+ Connect with me: linkedin.com/in/nidhi-deval-204391365
+
 
 
 <!--
