@@ -2,9 +2,11 @@ Hi, I’m Nidhi Deval 👋
 
 I’m an entry-level MIS / Data Analyst with hands-on experience in Excel-based MIS reporting, KPI tracking, dashboards, and exception reporting through practical projects and virtual internships.
 
-I use Python for data cleaning and analysis and am currently building strong foundations in SQL and Power BI for reporting and visualization.
+I’m developing my skills in SQL, Excel, and Power BI to analyze data, generate insights, and create meaningful reports and visualizations.
 
-I also maintain guided analytics and machine learning projects to understand end-to-end data workflows and analytical thinking.
+I also work on analytics projects to strengthen my understanding of data cleaning, business analysis, and data-driven decision-making.
+
+I’m continuously learning and looking for opportunities to apply my analytical skills to real-world business problems.
 
  Connect with me: linkedin.com/in/nidhi-deval-204391365
 
